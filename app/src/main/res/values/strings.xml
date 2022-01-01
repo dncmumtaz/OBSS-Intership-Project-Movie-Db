@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ObssTest</string>
+    <string name="hello_obss">Hello OBSS!</string>
+    <string name="my_app">My App</string>
+    <string name="ok">Tamam</string>
+    <string name="delete">Sil</string>
+</resources>
